@@ -41,7 +41,7 @@ README.md
 
 ## 📈 Dashboard Preview
 
-![Superstore Dashboard](Images/dashboard.png)
+![Superstore Dashboard](Image/dashboard.png)
 ---
 
 ## 🔍 Key Insights
