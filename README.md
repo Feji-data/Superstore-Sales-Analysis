@@ -41,12 +41,7 @@ README.md
 
 ## 📈 Dashboard Preview
 
-> *(Add your Tableau dashboard screenshot here.)*
-
-Example:
-
-![Dashboard](Images/dashboard.png)
-
+![Superstore Dashboard](Images/dashboard.png)
 ---
 
 ## 🔍 Key Insights
